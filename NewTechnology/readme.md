@@ -10,3 +10,5 @@ WooCommerce begon als een simpele plugin, maar is uitgegroeid tot een enorme com
 
 ## 26/09/2017
 
+* Installatie van wordpress : zip downloaden en basic setup
+* Linux server opzetten
