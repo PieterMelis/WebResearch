@@ -15,4 +15,13 @@ WooCommerce begon als een simpele plugin, maar is uitgegroeid tot een enorme com
 
 ## 27/09/2017
 
-* wordpress database setup en Installatie van WooCommerce
+* Wordpress database setup en Installatie van WooCommerce
+
+## 7/10/2017
+
+* Wordpress thema downloaden en aanpassen
+* Basis settings : general, products, shipping, checkout en accounts
+* aanmaken van producten : Manage stock, attributen en variaties
+* Verschillende product data gebruiken
+* Download plugins: regenerate Thumbnails en table rates shipping
+* Shipping rates aanmaken en uitzoeken van al de instellingen.
