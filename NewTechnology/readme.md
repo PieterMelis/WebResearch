@@ -25,3 +25,7 @@ WooCommerce begon als een simpele plugin, maar is uitgegroeid tot een enorme com
 * Verschillende product data gebruiken
 * Download plugins: regenerate Thumbnails en table rates shipping
 * Shipping rates aanmaken en uitzoeken van al de instellingen.
+
+##8/10/2017
+
+* online zetten van wordpress project
