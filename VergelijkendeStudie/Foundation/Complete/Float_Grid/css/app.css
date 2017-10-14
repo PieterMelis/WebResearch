@@ -1,0 +1,57 @@
+body {
+  padding: 2rem;
+}
+
+.row {
+  background: #e6e6e6;
+  margin-bottom: 1rem;
+}
+
+.column,
+.columns {
+  background: #767676;
+  border: 5px solid black;
+}
+.column span,
+.columns span {
+  background: #1779ba;
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+.column > .row .column,
+.column > .row .columns,
+.columns > .row .column,
+.columns > .row .columns {
+  background: #3adb76;
+  border: 1px solid black;
+}
+.column > .row .column span,
+.column > .row .columns span,
+.columns > .row .column span,
+.columns > .row .columns span {
+  background: #136933;
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+
+.callout {
+  background: #1779ba;
+  text-align: center;
+}
+
+.box {
+  height: 20px;
+  width: 20px;
+  display: inline-block;
+}
+.box.blue {
+  background: #1779ba;
+}
+.box.gray {
+  background: #767676;
+}
+.box.black {
+  background: #000;
+}

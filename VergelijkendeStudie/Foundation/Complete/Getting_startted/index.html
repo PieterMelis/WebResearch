@@ -1,0 +1,85 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Foundation for Sites</title>
+    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/app.css">
+  </head>
+  <body>
+    <div class="grid-container">
+
+      <h1 class="subheader">subheader</h1>
+
+      <ul class="vertical menu accordion-menu" data-accordion-menu>
+        <li>
+          <a href="#">Item 1</a>
+          <ul class="menu vertical nested">
+            <li><a href="#">Item 1A</a></li>
+            <li><a href="#">Item 1B</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Item 2</a></li>
+      </ul>
+
+      <ul class="accordion" data-accordion>
+        <li class="accordion-item is-active" data-accordion-item>
+          <a href="#" class="accordion-title">Flap 1</a>
+          <div class="accordion-content" data-tab-content>
+            <p>Panel 1</p>
+            <a href="#">Nowhere to Go</a>
+          </div>
+        </li>
+        <li class="accordion-item " data-accordion-item>
+          <a href="#" class="accordion-title">Flap 2</a>
+          <div class="accordion-content" data-tab-content>
+            <p>Panel 2</p>
+            <a href="#">Nowhere to Go</a>
+          </div>
+        </li>
+        <li class="accordion-item " data-accordion-item>
+          <a href="#" class="accordion-title">Flap 3</a>
+          <div class="accordion-content" data-tab-content>
+            <p>Panel 3</p>
+            <a href="#">Nowhere to Go</a>
+          </div>
+        </li>
+      </ul>
+
+<button type="button" class="button" data-toggle="offCanvas">Open off-canvas</button>
+
+<div class="off-canvas position-left" id="offCanvas" data-off-canvas>
+<ul class="menu vertical">
+   <li><a href="#">Dit</a></li>
+   <li><a href="#">Is</a></li>
+   <li><a href="#">Zo</a></li>
+   <li><a href="#">Cool</a></li>
+ </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/vendor/what-input.js"></script>
+    <script src="js/vendor/foundation.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
