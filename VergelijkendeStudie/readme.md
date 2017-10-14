@@ -1,7 +1,7 @@
 # Vergelijkende studie
 
-  > * Skeleton
-  > * Foundation
+ > - Skeleton
+ > - Foundation
 
 
 ## 30/09/2017
@@ -12,7 +12,7 @@
 
 ## 14/10/2017
 
-> Informatie opzoeken over het gebruik en toepassen van Foundation en Skeleton
-> Reviews lezen van gebruikers
-> Bekijken van GitHub, website en tutorials
+> - Informatie opzoeken over het gebruik en toepassen van Foundation en Skeleton
+> - Reviews lezen van gebruikers
+> - Bekijken van GitHub, website en tutorials
 
