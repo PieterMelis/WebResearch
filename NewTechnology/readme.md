@@ -26,6 +26,10 @@
 > * Download plugins: regenerate Thumbnails en table rates shipping
 > * Shipping rates aanmaken en uitzoeken van al de instellingen.
 
-##8/10/2017
+## 8/10/2017
 
+<<<<<<< HEAD
 > * online zetten van wordpress project en paypal proberen te activeren
+=======
+> * online zetten van wordpress project en paypal proberen te activeren
+>>>>>>> b79bf9f7928b62320b0b4b1e7e7be7b3251ad45c
