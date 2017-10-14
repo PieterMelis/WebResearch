@@ -1,7 +1,7 @@
 # Vergelijkende studie
 
-  Skeleton
-  > Foundation
+  > * Skeleton
+  > * Foundation
 
 
 ## 30/09/2017
