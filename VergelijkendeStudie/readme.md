@@ -16,7 +16,7 @@
 > - Reviews lezen van gebruikers
 > - Bekijken van GitHub, website en tutorials
 
-##14/10/2017
+## 14/10/2017
 
 > - Gebruiken van verschillende setup's : Complete, Costum en Essential
 > - Gebruiken van forms, typography, navigatie, tables, ...
