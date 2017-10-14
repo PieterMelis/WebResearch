@@ -28,4 +28,4 @@ WooCommerce begon als een simpele plugin, maar is uitgegroeid tot een enorme com
 
 ##8/10/2017
 
-* online zetten van wordpress project
+* online zetten van wordpress project en paypal proberen te activeren
