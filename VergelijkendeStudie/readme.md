@@ -1,6 +1,6 @@
 # Vergelijkende studie
 
-  > Skeleton
+  Skeleton
   > Foundation
 
 
