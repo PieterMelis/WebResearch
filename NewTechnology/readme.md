@@ -27,6 +27,9 @@
 
 ## 8/10/2017
 
-> * online zetten van wordpress project en paypal proberen te activeren
+> * Online zetten van wordpress project en paypal proberen te activeren
 
+## 15/10/2017
+
+> * Coupons, Reports, orders
 
