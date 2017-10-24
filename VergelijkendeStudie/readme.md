@@ -26,5 +26,16 @@
 
 > - Schrijven aan paper : basis informatie, eerste kennismaking en websitevergelijking.
 
+## 24/10/2017
+
+> - Schrijven aan paper : Populariteit en installatie.
+
+
+
+
+
+
+
+
 
 
