@@ -22,5 +22,9 @@
 > - Gebruiken van forms, typography, navigatie, tables, ...
 > - Basic website maken
 
+## 23/10/2017
+
+> - Schrijven aan paper : basis informatie, eerste kennismaking en websitevergelijking.
+
 
 
