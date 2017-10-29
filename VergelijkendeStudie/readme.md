@@ -31,7 +31,9 @@
 > - Schrijven aan paper : Populariteit en installatie.
 
 
-
+## 30/10/2017
+ 
+> - Schrijven aan paper : Gebruik en conclusie
 
 
 
