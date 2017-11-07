@@ -33,3 +33,12 @@
 
 > * Coupons, Reports, orders
 
+## 7/11/2017
+
+> * Maken van categories
+> * Extra data invoegen
+
+## 7/11/2017
+
+> * Installeren plugins
+> * Maken van homepagina

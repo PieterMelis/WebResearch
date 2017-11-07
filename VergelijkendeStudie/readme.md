@@ -35,6 +35,10 @@
  
 > - Schrijven aan paper : Gebruik en conclusie
 
+## 7/11/2017
+
+> - Nalezen en afmaken
+
 
 
 
