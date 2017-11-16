@@ -1,10 +1,5 @@
 # New technology
 
-> Ik heb gekozen voor WooCommerce als new technology
-
-## WooCommerce
-
-# New technology
 
 > Ik heb gekozen voor WooCommerce als new technology
 
@@ -80,6 +75,7 @@
 > * https://www.youtube.com/watch?v=ysb9gdVR_m8
 > * https://docs.woocommerce.com/document/setting-up-shipping-zones/
 > * https://docs.woocommerce.com/document/flat-rate-shipping/
+> * https://docs.woocommerce.com/documentation/plugins/woocommerce/getting-started/
 
 
 
