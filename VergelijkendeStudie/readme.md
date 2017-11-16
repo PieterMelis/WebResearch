@@ -39,7 +39,9 @@
 
 > - Nalezen en afmaken
 
+## 15/11/2017
 
+> - Extra bronnen toevoegen
 
 
 

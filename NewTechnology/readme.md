@@ -42,3 +42,40 @@
 
 > * Installeren plugins
 > * Maken van homepagina
+
+## 14/11/2017
+
+> * Testen van votes
+> * Toevoegen van extra content online
+> * Online verder werken
+> * Extra's Powerpoint 
+> * Nakijken van powerpoint
+
+## 15/11/2017
+
+
+> * mailchimp doen werken 
+> * Nakijken van websiten en alles nog eens uittesten.
+
+## 16/11/2017 
+
+> * Powerpoint oefenen 
+
+
+# Extra Bronnen
+
+> * https://www.youtube.com/watch?v=qqr7gPZ3OrI
+> * https://woocommerce.com/
+> * https://docs.woocommerce.com/documentation/plugins/woocommerce/
+> * https://docs.woocommerce.com/document/setting-up-shipping-zones/
+> * https://woocommerce.com/videos/tax-settings/
+> * https://woocommerce.com/videos/installing-woocommerce/
+> * https://docs.woocommerce.com/document/free-shipping/
+> * https://www.youtube.com/watch?v=ysb9gdVR_m8
+> * https://docs.woocommerce.com/document/setting-up-shipping-zones/
+> * https://docs.woocommerce.com/document/flat-rate-shipping/
+
+
+
+
+
